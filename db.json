@@ -2,20 +2,56 @@
   "products": [
     {
       "id": "8992745120650",
-      "name": "Wireless Mouse",
+      "name": "Wireless Mouse edit",
       "description": "Ergonomic wireless mouse with high precision.",
       "price": 150000,
-      "stock": 110
+      "stock": {
+        "requestId": "ijivn5Xb0O7ZatHNSRx3P",
+        "signal": {}
+      },
+      "logs": []
     }
   ],
   "logs": [
     {
-      "id": 1,
+      "id": "1",
       "product_id": "8992745120650",
       "type": "stock_in",
       "quantity": 10,
       "note": "Restocked due to high demand",
       "date": "2024-11-22T10:00:00Z"
+    },
+    {
+      "id": "6a7b60d9-0b0d-427a-a705-992c73daf594",
+      "product_id": "8992745120650",
+      "type": "stock_in",
+      "quantity": "110",
+      "note": "Restock",
+      "date": "2024-11-23T16:08:17.557Z"
+    },
+    {
+      "id": "6a7b60d9-0b0d-427a-a705-992c73daf594",
+      "product_id": "8992745120650",
+      "type": "stock_in",
+      "quantity": "110",
+      "note": "Restock",
+      "date": "2024-11-23T16:08:17.557Z"
+    },
+    {
+      "id": "6a7b60d9-0b0d-427a-a705-992c73daf594",
+      "product_id": "8992745120650",
+      "type": "stock_in",
+      "quantity": "110",
+      "note": "Restock",
+      "date": "2024-11-23T16:08:17.557Z"
+    },
+    {
+      "id": "6a7b60d9-0b0d-427a-a705-992c73daf594",
+      "product_id": "8992745120650",
+      "type": "stock_in",
+      "quantity": "110",
+      "note": "Restock",
+      "date": "2024-11-23T16:08:17.557Z"
     }
   ]
 }
